@@ -26,9 +26,7 @@ We performed some data cleaning including; checking for countries with mismatch 
 - **Confirmed Cases Worldwide with Choropleth Map (log10)** 
 - **Cases over the time With Area plot** 
 ![](images/Aspose.Words.cc223b83-e588-4e0a-9ec1-48e819135701.005.jpeg)
-![](images/Aspose.Words.cc223b83-e588-4e0a-9ec1-48e819135701.005.jpeg)
 ![](images/Aspose.Words.cc223b83-e588-4e0a-9ec1-48e819135701.006.jpeg)
-
 ![](images/Aspose.Words.cc223b83-e588-4e0a-9ec1-48e819135701.007.jpeg)
 
 ## World Comparison 
